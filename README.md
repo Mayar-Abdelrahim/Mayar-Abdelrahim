@@ -17,7 +17,9 @@
 <div align="center">
   <h2 style="border-bottom: none; margin: 0; padding: 0;"><strong>About me</strong></h2>
   <img src="assets/line.png" width="100%" height="4px" style="margin: 10px 0; display: block;" alt="separator" />
-  
+</div>
+
+<div align="left">
   <p>Hello, I'm <b>Mayar Abdelrahim</b> — a Flutter Mobile Developer focused on building clean, structured, and production-ready cross-platform applications.</p>
   <p>I highly value clean code, scalable architecture, and solving real-world technical challenges.</p>
 
